@@ -1,0 +1,69 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: white;
+}
+header{
+    width: 900px;
+    height: 100px;
+    background-color: wheat;
+    display: flex;
+}
+.logo{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
+#titulo{
+    margin-top: 32px;
+    width: 600px;
+    height: 100px;
+    font-size: 32px;
+}
+#menu{
+    width: 900px;
+    height: 32px;
+    background-color: yellow;
+}
+#abajomenu{
+    width: 900px;
+    height: 300px;
+    background-color: brown;
+}
+#cuerpo{
+    width: 900px;
+    height: 600px;
+    background-color: aqua;
+}
+.centro{
+    width: 500px;
+    height: 600px;
+    background-color: cadetblue;
+    display: flex;
+    flex-direction: column;
+}
+.lados{
+    width: 200px;
+    height: 600px;
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: column;
+}
+.izq{
+    width: 200px;
+    height: 300px;
+    background-color: burlywood;
+}
+.der{
+    width: 200px;
+    height: 200px;
+    background-color: cornflowerblue;
+}
+#footer{
+    width: 900px;
+    height: 32px;
+    background-color: yellow;
+}
